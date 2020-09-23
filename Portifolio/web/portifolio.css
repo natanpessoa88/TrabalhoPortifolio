@@ -11,10 +11,18 @@ and open the template in the editor.
 img{
     width: 100px;
     height: 150px;
+    border-radius: 8px;
+
 }
 
-             p{
-                color: #0069d9;
-                font-size: medium ;
-                font-family:cursive;
-            }
+p{
+    color: #0069d9;
+    font-size: large ;
+    font-family: sans-serif;
+}
+
+p2{
+    color: darkturquoise;
+    font-size: initial ;
+    font-family: sans-serif;
+}
